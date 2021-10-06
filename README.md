@@ -26,8 +26,8 @@ In classification module I have used **Support vector clustering Algorithm** to 
 
 
 ## Program Files of Classification are as follows:
-1. [Visualization.py](https://github.com/patilvaibhav12/Application-classifier1/blob/master/classifier.py) :: A python file.
-2. [students.ipynb](https://github.com/patilvaibhav12/Application-classifier1/blob/master/classifier.ipynb) :: It is jupyter notebook file of program.
+1. [Appication-classifier.py](https://github.com/patilvaibhav12/Application-classifier1/blob/master/classifier.py) :: A python file.
+2. [classifier.ipynb](https://github.com/patilvaibhav12/Application-classifier1/blob/master/classifier.ipynb) :: It is jupyter notebook file of program.
 
 ## Classification Report ::
 This Module has accurracy score of more than 91%.
